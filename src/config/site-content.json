@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": "YY",
+		"description": "YY的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
+		"username": ""
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -54,13 +54,6 @@
 			"value": "https://juejin.cn/user/2427311675422382",
 			"label": "稀土掘金",
 			"order": 2
-		},
-		{
-			"id": "email",
-			"type": "email",
-			"value": "yysuni1001@gmail.com",
-			"label": "",
-			"order": 1
 		}
 	],
 	"clockShowSeconds": false,
