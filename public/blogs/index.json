@@ -1,14 +1,5 @@
 [
   {
-    "slug": "sd",
-    "title": "cs",
-    "tags": [],
-    "date": "2025-12-22T12:25",
-    "summary": "",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "fix-screen",
     "title": "解决电脑屏幕帧数问题",
     "tags": [
