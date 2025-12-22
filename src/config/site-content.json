@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YY",
-		"description": "YY的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": ""
+		"title": "yydis",
+		"description": "YY小白的个人博客，记录fnos、探索、笔记。前端 UI 更新代码仓库。",
+		"username": "YY小白"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -56,7 +56,7 @@
 			"order": 2
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
 	"hideEditButton": false,
